@@ -1,0 +1,13 @@
+{
+  "name": "payment-module",
+  "version": "0.1.0",
+  "description": "Payment service integration (Stripe, PayPal)",
+  "type": "library",
+  "language": "go",
+  "category": "backend",
+  "maintainers": [{"name": "Modsynth Team"}],
+  "repository": {"type": "git", "url": "https://github.com/modsynth/payment-module.git"},
+  "techStack": ["Go", "Stripe", "PayPal"],
+  "features": ["Payment processing", "Refunds", "Webhooks", "Subscription management"],
+  "tags": ["payment", "stripe", "paypal", "subscription"]
+}
